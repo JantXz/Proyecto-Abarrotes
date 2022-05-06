@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package Inventarios;
-package config.Conexion;
+import config.Conexion;
 
 import Activar.MenuPrincipal;
 import config.Conexion;
